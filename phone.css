@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.navbar img{
+    width: 300px;
+}
+.navbar ul li a{
+    font-size: 2.4rem;
+    font-weight: bold;
+}
+.right p{
+    font-size: 2.2rem;
+    font-weight: 600;
+}
+.right img{
+    width: 100px;
+}
